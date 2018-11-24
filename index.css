@@ -60,3 +60,7 @@ nav>ul>li>a:hover {
 img{
   float:right;
 }
+#projects{
+  justify-content: space-around;
+  float:left;
+}
