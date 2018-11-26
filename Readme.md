@@ -11,3 +11,5 @@ The project is brief and precise on my education experience.The project lays a g
 
 ##Known Bugs
 {I know there are issues i need to resolve to make this application viable but in case of any contributions or concerns,please you are highly welcome to share with me since we learn from one another.}
+TECHNOLOGIES used
+## language used:html and css
