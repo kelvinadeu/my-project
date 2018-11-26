@@ -16,5 +16,7 @@ TECHNOLOGIES used
 
 ## SUPPORT AND CONTACTS DETAILS
 #For more information please contact me through my email;kelvinadeu25@gmail.com
+
 ###licence
+
 #copyright (c) 2018 kelvin Adeu
