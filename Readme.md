@@ -1,4 +1,4 @@
-#My portfolio
+##My portfolio
 ### class text project on how to create application
 ##By Kelvin ADEU
 ##Description
@@ -15,4 +15,6 @@ TECHNOLOGIES used
 ## language used:html and css
 
 ## SUPPORT AND CONTACTS DETAILS
-#For more information please contact me through my email;kelvinadeu25@gmail.com 
+#For more information please contact me through my email;kelvinadeu25@gmail.com
+###licence
+#copyright (c) 2018 kelvin Adeu
